@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akhtar Shaikh
-- 👀 I’m interested in code hunting
-- 🌱 I’m currently learning BlockChain and IoT
-- 💞️ I’m looking to collaborate on "Automate Allmost Anything"
+- 👀 I’m a Computer Scientist
+- 🌱 I’m currently researching AI, ML, BlockChain, and IoT
+
 - 📫 I’m reachable @ +91 9768862000 or akhtarrs@gmail.com 
 
 <!---
