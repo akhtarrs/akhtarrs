@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.5">
   <diagram name="Page-1" id="XkXbQeuMfDBbyy4YrDp9">
-    <mxGraphModel dx="2363" dy="1260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1418" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,6 +139,21 @@
         </mxCell>
         <mxCell id="O5wGwF4iqjPsfDwwZtzJ-17" value="Global CDN + Caching Layer" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="O5wGwF4iqjPsfDwwZtzJ-64">
           <mxGeometry x="20" y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O5wGwF4iqjPsfDwwZtzJ-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O5wGwF4iqjPsfDwwZtzJ-67" target="O5wGwF4iqjPsfDwwZtzJ-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O5wGwF4iqjPsfDwwZtzJ-67" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;React Build&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;S3 (origine)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#66B2FF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="800" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O5wGwF4iqjPsfDwwZtzJ-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O5wGwF4iqjPsfDwwZtzJ-68" target="O5wGwF4iqjPsfDwwZtzJ-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O5wGwF4iqjPsfDwwZtzJ-68" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;CloudFront (CDN)&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#66B2FF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="890" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O5wGwF4iqjPsfDwwZtzJ-69" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Route53 (Domain)&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#66B2FF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="960" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
